@@ -4,6 +4,11 @@
 
 This is simple Alfred workflow to help you manage opened windows. It is simple (50 lines of applescript) but powerful tool. It allows you to create your own layouts, custom sizes and custom proportion.
 
+## Fork changes
+Differences from the source branch
+- Remove hotkeys
+- Add "Left 2/3" and "Right 2/3" shortcuts
+
 ## Requirements
 
 Some of the mac OS apps are non-scriptable which means they are not working very well with applescript. Fortunately "SystemEvents" can handle them really well. Few simple steps are required to enable Alfred's access to Acessibility tools.
